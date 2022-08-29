@@ -1,0 +1,42 @@
+.tutorial {
+    
+    margin-top: 150px;
+    width: 1fr;
+    height: 492px;
+    background: linear-gradient(101.17deg, #8AD867 -54.27%, #0395AB 881.8%);
+    color: white;
+    padding-left: 50px;
+    display: flex;
+}
+
+.tutorial h1{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100px;
+   
+
+}
+.tutorial p {
+    
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    min-width: 220px;
+    min-height: 110px;
+    margin-top: 40px;
+
+}
+.tutorial .container {
+    width: 220px;
+    height: 110px;
+}
+.tutorial .image {
+  position: absolute;
+  left: 338.94px;
+  min-width: 1000px;
+  
+
+ 
+}
+
+

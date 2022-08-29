@@ -1,0 +1,77 @@
+.Testimonials{
+    margin-top: 750px;
+   
+    height: 500px;
+    background: linear-gradient(101.17deg, #8AD867 -54.27%, #0395AB 881.8%);
+    padding: 30px;
+    width: 1fr;
+    overflow: hidden;
+    
+    
+}
+.Testimonials .items img{
+    width: 70px;
+}
+
+.Testimonials h2 {
+    width: 364px;
+    height: 100px;
+    font-size: 48px;
+    line-height: 100px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.Testimonials .items {
+
+    width: 350px;
+    height: 300.26px;
+    background: #FFFFFF;  
+    box-shadow: 0px 6px 15px rgba(8, 45, 74, 0.05);
+    border-radius: 10px;
+    padding: 15px;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    
+   
+}
+.TestimonialsList{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+   
+}
+
+.items p {
+    width: 338.05px;
+    height: 150.75px;
+    font-size: 20px;
+    line-height: 150%;
+    color: #464C52;
+}
+.items .MeInfo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 40px;
+ 
+}
+.MeInfo span{
+    width: 170px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FF6132;
+}
+.MeInfo{
+    margin-top: auto;
+}
+
+.Testimonials .imageTest{
+   position: absolute;
+   right: 1%;
+   transform: translateY(-100%);
+}
+

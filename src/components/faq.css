@@ -1,0 +1,69 @@
+.FAQ{
+    margin-top: 170px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.FAQ h3 ,p ,hr{
+    margin-right: auto;
+}
+
+hr{
+    width: 1fr;
+}
+.faqItem{
+   width: 800px;
+}
+
+.SendMoneyBox{
+    margin-top: 100px;
+    height: 383px;
+    width: 1000px;
+    background: linear-gradient(101.17deg, #8AD867 -54.27%, #0395AB 881.8%);
+    box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    display: flex;
+    
+
+}
+.SendMoneyItem {
+    padding: 30px
+}
+.SendMoneyItem h2{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.SendMoneyItem p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    width: 500px;
+}
+.sendMoney {
+    margin-right: 70px;
+    margin-top:50px;
+    border: 10px solid black;
+    border-radius: 40px;
+}
+.Btn{
+    border: #8AD867 solid 1px;
+    Width :174px;
+    Height:60px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 150%;
+    background: #F5F5F5;
+    border-radius: 10px;
+    letter-spacing: 0.04em;
+
+    color: #121212;
+
+}

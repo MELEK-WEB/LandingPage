@@ -1,0 +1,30 @@
+.middleHeading{
+   transform: translateX(40%);
+}
+.Benefits{
+
+}
+.Benefits .benifitInfo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+}
+
+.benifitInfo h1{
+font-size: 64px;
+line-height: 100%;
+text-transform: uppercase;
+color: #F37021;
+width: 420px;
+height: 75px;
+}
+.benifitInfo p{
+    width: 330px ;
+    height: 65px;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #1E1E1E;
+}

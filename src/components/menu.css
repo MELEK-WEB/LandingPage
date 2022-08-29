@@ -1,0 +1,47 @@
+
+.Headermenu {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: 700;
+    color: #121212;
+    font-size: 16px;
+    line-height: 20px;
+
+}
+.logo{
+    margin-right: auto;
+}
+.nav_links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 60px;
+    margin-right: auto;
+    
+}
+.btn{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 150%;
+    height:59.77px;
+
+    width: 136.39px ;
+   border: none;
+    
+    letter-spacing: 0.04em;
+    background: #F37021;
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+.icons{
+    color: #F37021;
+    border-radius: 25px;
+    
+}
+
+
+

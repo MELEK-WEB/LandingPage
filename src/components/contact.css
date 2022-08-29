@@ -1,0 +1,91 @@
+
+
+.contact{
+    position: absolute;
+    left: 0;
+    top: 48     00px ;
+}
+.contact1{
+    position: absolute;
+    right: 0
+}
+.ContactUs{
+    
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 4700px;
+    align-items: center;
+    justify-content: center;
+   
+    left: 50%;
+    transform: translateX(-50%);
+   
+    width: 900px;
+    height: 485px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 24px rgba(36, 36, 36, 0.15);
+    border-radius: 10px;
+}
+.contactItem{
+    display: flex;
+    gap: 40px;
+}
+.inputGroup{
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ContainerPage h4{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    background: linear-gradient(101.17deg, #8AD867 -54.27%, #0395AB 881.8%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.ContainerPage p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    width: 513px;
+    height: 48px;
+    text-align: center;
+
+     color: #353535;
+}
+.contactItem label {
+    font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+color: #8AD867;
+}
+.contactItem .input {
+    box-sizing: border-box;
+    width: 332px;
+    height: 44px;
+    border: 0.5px solid #242424;
+    border-radius: 3px;
+}
+.contactItem .inputDescription{
+    box-sizing: border-box;
+
+    width: 332px;
+height: 135px;
+border: 0.5px solid #242424;
+border-radius: 3px;
+}
+.submitBtn{
+    border: none;
+    width: 332px;
+    height: 44px;
+    background: #F37021;
+    border-radius: 3px;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    line-height: 19px;
+margin-top: auto;
+}

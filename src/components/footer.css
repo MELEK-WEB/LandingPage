@@ -1,0 +1,29 @@
+.Footer{
+        margin-top: 100px;
+        width: 1fr;
+        height: 200px;
+        display: flex;
+        gap: 150px;
+        justify-content: center;
+        padding: 3%;
+        
+
+}
+
+.FooterHeader{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    
+}
+.item{
+    display: flex;
+     justify-content: flex-start ;
+     gap: 30px;
+    
+}
+.first{
+    margin-right:  auto;
+}

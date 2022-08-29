@@ -1,0 +1,64 @@
+.dollars{
+    margin-top: 30px;
+    float: right;
+}
+.aboutus{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.middleHeading{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 140%;
+    transform: translate(50%);
+
+
+/* or 67px */
+}
+
+.Transaction_image{
+    width: 50%;
+}
+.Transaction_section{
+    display: flex;
+    gap: 40px;
+  align-items: center;
+ 
+}
+.Transaction_item{
+   
+ 
+}
+.Transaction_section .title {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 140%;
+    /* identical to box height, or 28px */
+    
+    text-transform: uppercase;
+    
+    color: #F37021;
+}
+.Transaction_section .Transaction_item p{
+    font-weight: 400;
+font-size: 15px;
+line-height: 140%;
+width: 330px;
+height: 63px;
+
+/* or 21px */
+
+
+color: #464C52;
+}
+.Transaction_section .Transaction_item h3 {
+font-weight: 800;
+font-size: 40px;
+text-transform: uppercase;
+color: #F37021;
+
+}

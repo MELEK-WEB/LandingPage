@@ -1,0 +1,113 @@
+.HomePage{
+    margin-top: 50px;
+    display: flex;
+}
+.cardDescription{
+  display: flex;
+  flex-direction: column;
+
+}
+.paragraphe { 
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
+    height: 72.33px;
+    width: 592.55px;
+   
+    
+    letter-spacing: 0.04em;
+    
+    color: #121212;
+}
+.heading{
+    
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    text-transform: uppercase;
+    color: #121212;
+    height: 155.4px;
+    width: 550px;
+
+}
+.heading strong{
+    color: #F37021;
+}
+.bootomDescription{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 50px;
+}
+.btn_getstarted{
+width: 274.61px;
+height: 59.77px;
+font-size: 18px;
+letter-spacing: 0.04em;
+color: white;
+background: #F37021;
+border: none;
+border-radius: 10px;
+
+}
+.homeImg{
+    width: 700px;
+    margin-left: auto;
+   
+
+
+}
+.vector{
+    width: 247px;
+    position: absolute;
+    left: 300px;
+    top: 140px;
+}
+
+.icons {
+    display: flex;
+   gap: 0px;
+
+}
+.icon{
+    margin-left: 30px;
+    width: 28px;
+   
+}
+.benefitIcon{
+width: 45px;
+
+box-sizing: border-box;
+border-radius: 100%;
+
+
+}
+.benefitDesc{
+    margin-top: 0;
+}
+.Benifits{
+    margin-top: 100px;
+    display: flex;
+    
+    justify-content: center;
+    gap: 100px;
+}
+.benefit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    
+}
+
+.contentBenefit{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0px;
+    padding: 0;
+    margin: 0;
+
+}
