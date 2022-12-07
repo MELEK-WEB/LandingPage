@@ -17,7 +17,7 @@ export default function Home() {
             <div className='cardDescription'>
             <img src={vector}alt='vector' className='vector' />
                     <h1 className='heading'>
-                        SEND MONEY IN <strong>RELIABLY</strong> WAY
+                        SEND MONEY IN <strong>Melek_</strong> WAY
                     </h1>
                     <p className='paragraphe'>
                     Send, exchange & receive money globally in seconds.
